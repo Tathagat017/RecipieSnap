@@ -1,6 +1,8 @@
 # 🍳 RecipeSnap - AI Cooking Assistant
 
 RecipeSnap is an AI-powered cooking assistant that helps you discover delicious recipes based on ingredients you have in your fridge. Simply upload a photo of your ingredients or type them in, and get personalized recipe suggestions powered by OpenAI's advanced AI models.
+![image](https://github.com/user-attachments/assets/9a94c226-8aba-4eb8-88aa-027a438fc5b0)
+
 
 ## ✨ Features
 
